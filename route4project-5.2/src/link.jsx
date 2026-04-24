@@ -15,7 +15,7 @@ function Showcase({cardEmoji,cardBlurbt,cardHeadert,cardSubtitlet,cardPict}) {
           <button
             type="button"
             className="mt-3 px-4 py-2 bg-blue-500 text-white rounded hover:bg-blue-600 transition"
-            onClick={() => { window.location.href = "http://localhost:5174/home/"; }}
+            onClick={() => { window.location.href = "http://localhost:5173/home"; }}
           >
             Go to App
           </button>

@@ -8,9 +8,9 @@ function Home() {
 
       <div className="grid grid-cols-1 gap-4">
         <News
-          cardHeadert=<strong> Link to App...</strong>
+          cardHeadert=<strong> Hello there, and welcome... </strong>
           cardPict={Presentpic}
-          cardBlurbt="By clicking on the button below, a tab will open that will showcase the app and it's progress. If the app doesn't load, then the server needs to be reset from both ends."
+          cardBlurbt="...to my portfolio page!"
           
         />
       </div>
